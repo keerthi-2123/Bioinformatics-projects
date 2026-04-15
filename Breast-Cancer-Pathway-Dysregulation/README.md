@@ -1,8 +1,6 @@
 ## Breast Cancer Pathway Dysregulation
 
-**Biological Question:** How are TP53-apoptosis and BRCA1-DNA repair 
-pathway genes differentially expressed between normal and tumor breast tissue?
-
+**Biological Question:** Are DNA repair genes more dysregulated than TP53 checkpoint genes in breast cancer?
 **Dataset:** TCGA Breast Cancer gene expression (Normal vs Tumor samples)
 
 **Methods:** Fold change analysis + independent t-test (scipy) + 
