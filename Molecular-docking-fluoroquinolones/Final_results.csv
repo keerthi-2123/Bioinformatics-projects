@@ -1,0 +1,5 @@
+,,,,,,,
+,Ligand,Dock score,Pocket,MW (g/mol),Log P,GI Absorption,Lipinski
+,Ciprofloxacin,-9.3,C2,331.34,1.10,High,0
+,Norfloxacin,-9.2,C4,319.33,0.98,High,0
+,levofloxacin,-8.3,C2,361.37,~ 1.0,High,0
