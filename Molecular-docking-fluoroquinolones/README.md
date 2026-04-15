@@ -4,10 +4,12 @@
                2. Predicted binding pocket 
                3. drug- likeness properties
                4. Pharmacokinetic suitability
+               
 **Target protein:**
                1. Ciprofloxacin
                2. Norpfloxacin
                3. Levofloxacin
+               
 **Methods:** 
               1.**Molecular docking:**
                      1. Platform: CB-Dock2
@@ -21,6 +23,7 @@
                              3. GI absorption
                              4. Lipinski rule of five
                              5. Solubilty
+                             
 **Key findings:**
                 1. Ciprofloxacin showed strongest predicted binding with an dock score of -9.3 compared to Norfloxacin with an dock score of -9.2 and Levofloxacin an dock score of -8.3
                 2. All three compounds had high GI absorption
